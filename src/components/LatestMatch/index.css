@@ -1,0 +1,26 @@
+.latest-match-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  background-color: #1e293b;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+}
+.latest-match-image {
+  height: 150px;
+  width: 20%;
+}
+
+.right-container {
+  text-align: end;
+  width: 35%;
+}
+.inner-card {
+  width: 35%;
+}
+.bold {
+  font-weight: bold;
+}

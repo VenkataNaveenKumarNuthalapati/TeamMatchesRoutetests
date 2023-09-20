@@ -1,0 +1,25 @@
+.team-container {
+  background-color: #5755a7;
+  min-height: 100vh;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: #ffffff;
+}
+
+.main-container {
+  padding: 20px;
+  width: 100%;
+}
+
+.baner-image {
+  height: 250px;
+  width: 100%;
+}
+.ul-container {
+  padding: 2px;
+  list-style-type: none;
+}

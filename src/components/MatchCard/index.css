@@ -1,0 +1,17 @@
+.matchs {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 32%;
+  background-color: #0f172a;
+  margin: 5px;
+  border-radius: 10px;
+  color: #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+.team-logo {
+  height: 100px;
+  width: 100px;
+}
